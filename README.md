@@ -1,4 +1,4 @@
-Start Base64 encode/decoder
+Base64 encode/decoder
 ====================
 
-Decodes or Encodes text from or to Base64
+Gets text and decodes in case if it is base64, otherwise encodes it in base64
